@@ -1,0 +1,31 @@
+body {
+  background-size: cover;
+  margin: 30px;
+  font-family:Arial, Helvetica, sans-serif
+}
+.outset {
+  border-style: outset;
+  width:230px;
+  text-align: center;
+}
+#myHeader {
+
+background-color: lightblue;
+color: white;
+padding: 10%;
+margin: 50px;
+padding-top: 15px;
+padding-bottom:15px;
+padding-left:50px;
+padding-right:50px;
+text-align: center;
+font-size: 250%;
+}
+.style {
+     li:hover {
+     color:rgb(255, 0, 0);
+     a:hover {
+      color:red;
+     }
+}
+}
